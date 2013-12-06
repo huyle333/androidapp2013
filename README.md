@@ -1,4 +1,4 @@
-androidapp2013
+Study Seed
 ==============
 
 Android App 2013 - StudySeed
